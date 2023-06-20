@@ -1,0 +1,25 @@
+body{
+    background-color: mistyrose;
+}
+img{
+    height: 400px;
+    width: 500px; 
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    color: palevioletred;
+    background-color: pink;
+}
+
+p{
+    font-size: 20px;
+    color:palevioletred;
+    background-color: papayawhip;
+    text-align: center;
+    font-weight:bold;
+}
+li{
+    color: rgb(251, 55, 153);
+}
