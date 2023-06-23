@@ -47,3 +47,9 @@
 * Classes - it groups and identifys certain text to style or change them. (class="example")
 * Padding - space between the element and border.
 * Margin - space between the border and outside.
+### gitbash
+* git status - used to check
+* git commit -m"example" (if you see green color)
+* git pull - if you see yellow
+* git add . - if you see red color
+* git push - if you see white color
