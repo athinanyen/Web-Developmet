@@ -53,3 +53,7 @@
 * git pull - if you see yellow
 * git add . - if you see red color
 * git push - if you see white color
+#### short cut keys
+* ctrl + / = comment
+* alt + up or down = shifting the code up or down
+* atl(keep it pressed) + put cursor somewhere else = makes multiple cursors
