@@ -57,3 +57,5 @@
 * ctrl + / = comment
 * alt + up or down = shifting the code up or down
 * atl(keep it pressed) + put cursor somewhere else = makes multiple cursors
+* up and down arrow - it will show you the previous commands in git bash
+* tab = autocompletes the file name in git bash
