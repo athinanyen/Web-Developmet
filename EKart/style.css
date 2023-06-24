@@ -1,7 +1,104 @@
-<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0; 
+}
+#nav{
+    text-align:center;
+    background-color: #f5dde5;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.anchor{
+    text-decoration: none;
+    color:#fffaf0;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+
+}
+#header{
+    text-align: center;
+    color: #d87093;
+    
+}
+
+.image{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}
+ #title{
+    text-align: center;
+    font-size: larger;
+    color:#000000;
+ }
+
+.product{
+    font-size: 30px;
+    font-weight: bold;
+    color: #d87093;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+}
+.shipping{
+    font-weight: bold;
+    color:#8fbc8f;
+    text-align: center;
+}
+.list{
+    color: #d87093;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    list-style: none;
+
+}
+.price{
+    font-weight: bold;
+    color: #d87093;
+    font-size: 20px;
+    text-align: center;
+}
+.background{
+    background-color: #fff0f5;
+}
+.here{
+    text-decoration: none;
+    color: #8fbc8f;
+    text-align: center;
+    font-size: 20x;
+}
+.moreinfo{
+    text-align: center;
+    font-size: 20px;
+    color: #8fbc8f;
+}
+.buynow{
+    text-align: center;
+    font-size: 20px;
+    color: #dcc8bc;
 }
 #nav{
     text-align:center;
@@ -18,7 +115,7 @@
 
 .anchor{
     text-decoration: none;
-    color:rgb(255,250,240);
+    color:#fffaf0;
     font-size: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -32,7 +129,7 @@
 }
 #header{
     text-align: center;
-    color: rgb(216,112,147);
+    color: #d87093;
     
 }
 
@@ -45,13 +142,13 @@
  #title{
     text-align: center;
     font-size: larger;
-    color:rgb(0,0,0);
+    color:#000000;
  }
 
 .product{
     font-size: 30px;
     font-weight: bold;
-    color: rgb(216,112,147);
+    color: #d87093;
     text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -61,15 +158,16 @@
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
+    block
 
 }
 .shipping{
     font-weight: bold;
-    color:rgb(143,188,143);
+    color:#8fbc8f;
     text-align: center;
 }
 .list{
-    color: rgb(216,112,147);
+    color: #d87093;
     font-size: 20px;
     font-weight: bold;
     text-align: center;
@@ -78,130 +176,26 @@
 }
 .price{
     font-weight: bold;
-    color: rgb(216,112,147);
+    color: #d87093;
     font-size: 20px;
     text-align: center;
 }
 .background{
-    background-color: rgb(255,240,245);
+    background-color: #fff0f5;
 }
 .here{
     text-decoration: none;
-    color: rgb(143,188,143);
+    color: #8fbc8f;
     text-align: center;
     font-size: 20x;
 }
 .moreinfo{
     text-align: center;
     font-size: 20px;
-    color: rgb(143,188,143);
+    color: #8fbc8f;
 }
 .buynow{
     text-align: center;
     font-size: 20px;
-    color: rgb(220, 200, 188);
+    color: #ffc0cb;
 }
-=======
-*{
-    margin: 0;
-    padding: 0; 
-}
-#nav{
-    text-align:center;
-    background-color: rgb(245, 221, 229);
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-left: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 10px;
-}
-
-.anchor{
-    text-decoration: none;
-    color:floralwhite;
-    font-size: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
-    padding-left: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-right: 30px;
-
-}
-#header{
-    text-align: center;
-    color: palevioletred;
-    
-}
-
-.image{
-    margin-left: auto;
-    margin-right: auto;
-    width: 400px;
-    height: 400px;
-}
- #title{
-    text-align: center;
-    font-size: larger;
-    color:black;
- }
-
-.product{
-    font-size: 30px;
-    font-weight: bold;
-    color: palevioletred;
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-left: 10px;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-
-}
-.shipping{
-    font-weight: bold;
-    color:darkseagreen;
-    text-align: center;
-}
-.list{
-    color: palevioletred;
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
-    list-style: none;
-
-}
-.price{
-    font-weight: bold;
-    color: palevioletred;
-    font-size: 20px;
-    text-align: center;
-}
-.background{
-    background-color: lavenderblush;
-}
-.here{
-    text-decoration: none;
-    color: darkseagreen;
-    text-align: center;
-    font-size: 20x;
-}
-.moreinfo{
-    text-align: center;
-    font-size: 20px;
-    color: darkseagreen;
-}
-.buynow{
-    text-align: center;
-    font-size: 20px;
-    color: pink;
-}
->>>>>>> 9f8e2daa4957d91f06b7d99c9a43a43ce746b4a3
