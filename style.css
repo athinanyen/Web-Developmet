@@ -1,4 +1,28 @@
-<<<<<<< HEAD
+body{
+    background-color: mistyrose;
+}
+img{
+    height: 400px;
+    width: 500px; 
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    color: palevioletred;
+    background-color: pink;
+}
+
+p{
+    font-size: 20px;
+    color:palevioletred;
+    background-color: papayawhip;
+    text-align: center;
+    font-weight:bold;
+}
+
+    color: rgb(251, 55, 153);
+
 body{
     background-color: mistyrose;
 }
@@ -23,30 +47,4 @@ p{
 }
 li{
     color: rgb(251, 55, 153);
-=======
-body{
-    background-color: mistyrose;
-}
-img{
-    height: 400px;
-    width: 500px; 
-}
-
-h1{
-    text-align: center;
-    font-size: 45px;
-    color: palevioletred;
-    background-color: pink;
-}
-
-p{
-    font-size: 20px;
-    color:palevioletred;
-    background-color: papayawhip;
-    text-align: center;
-    font-weight:bold;
-}
-li{
-    color: rgb(251, 55, 153);
->>>>>>> 9f8e2daa4957d91f06b7d99c9a43a43ce746b4a3
 }

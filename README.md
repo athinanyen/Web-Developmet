@@ -13,7 +13,7 @@
 * Head tag - you put information about the document in here. like the head of a body (head /head)
 
 * Body tag - you put the main content of a webpage here.  (body /body)
-* 
+
 * Title tag - its used to name the document. (<title>example</title>)
 
 * Nav tag - its used to define a section of a webpage that contains navigation links.(nav /nav)
@@ -59,3 +59,4 @@
 * atl(keep it pressed) + put cursor somewhere else = makes multiple cursors
 * up and down arrow - it will show you the previous commands in git bash
 * tab = autocompletes the file name in git bash
+* display = it takes up padding and margin but height and width doesn't affect it.(takes up content space)
