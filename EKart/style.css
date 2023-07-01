@@ -158,7 +158,6 @@
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
-    block
 
 }
 .shipping{
@@ -200,7 +199,29 @@
     color: #ffc0cb;
 }
 .hiPara{
-    display:inline
+    display:inline;
     width: 40px;
     height:40px;
+}
+.conback{
+    text-align: center;
+    color: #d87093;
+    font-size: 20px;
+}
+#title{
+    margin-bottom: auto;
+    margin-top: auto;
+    font-weight: bold;
+    font-size: 40px;
+    color: #fffaf0;
+}
+.backcolor{
+    background-color: #f5dde5;
+}
+.submit{
+    font-size: 20px;
+    color: #8fbc8f;
+}
+.inside{
+    font-size: large;
 }
