@@ -47,6 +47,7 @@
 * Classes - it groups and identifys certain text to style or change them. (class="example")
 * Padding - space between the element and border.
 * Margin - space between the border and outside.
+* Font family - is used to change the font.
 ### gitbash
 * git status - used to check
 * git commit -m"example" (if you see green color)
