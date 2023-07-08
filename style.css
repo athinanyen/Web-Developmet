@@ -21,11 +21,6 @@ p{
     font-weight:bold;
 }
 
-    color: rgb(251, 55, 153);
-
-body{
-    background-color: mistyrose;
-}
 img{
     height: 400px;
     width: 500px; 
@@ -48,3 +43,7 @@ p{
 li{
     color: rgb(251, 55, 153);
 }
+/* .idea{
+    width:5rem;
+
+} */
