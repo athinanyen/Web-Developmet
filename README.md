@@ -34,6 +34,21 @@
 
 * Unordered list tag - makes a list unordered. (ul /ul)
 
+### Bootstrap
+
+* Bootstrap - its pre designed codes that help for making websites easier.
+
+* Border = you can create a border. 
+
+* Border width = how big your border is. (Border 2)
+
+* Border shape = the shape of the border.
+
+* Border color = the color of the border.
+
+* Border radius = a CSS property that is used to define the roundness of the corner of an elements border. (border-radius: 10px;)
+
+
 ### css
 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png">
@@ -48,6 +63,7 @@
 * Padding - space between the element and border.
 * Margin - space between the border and outside.
 * Font family - is used to change the font.
+* How to put content in the middle. = Margin left auto, Margin right auto, and pick the width.
 ### gitbash
 * git status - used to check
 * git commit -m"example" (if you see green color)

@@ -11,3 +11,7 @@
 .card-title{
     font-size: 25px;
 }
+.border{
+    border:10px solid blue;
+    border-radius:20%;
+}
