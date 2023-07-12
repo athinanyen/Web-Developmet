@@ -48,6 +48,14 @@
 
 * Border radius = a CSS property that is used to define the roundness of the corner of an elements border. (border-radius: 10px;)
 
+* Text wrap = it adjust to fit text in specified boundarys.
+
+* Text transform = makes your text upper or lower case.
+
+* Background Gradiend = its background color with gradient.
+
+*
+
 
 ### css
 
