@@ -87,3 +87,9 @@
 * inline = takes up padding and margin but height and width doesn't affect it.(takes up content space)
 * block = takes up padding, margin, height and width.(takes up whole line space)
 * inline-block = mixture of inline and block using height and width. (takes up content space)
+
+#####Javascript
+* Naming conventions
+* Uppercase/lowercase = Possible at anytime
+* Numbers can't go first, only last.
+* _ and $ are possible anytime.
