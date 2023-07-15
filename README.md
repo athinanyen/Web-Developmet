@@ -88,8 +88,19 @@
 * block = takes up padding, margin, height and width.(takes up whole line space)
 * inline-block = mixture of inline and block using height and width. (takes up content space)
 
-#####Javascript
+##### Javascript
 * Naming conventions
 * Uppercase/lowercase = Possible at anytime
 * Numbers can't go first, only last.
 * _ and $ are possible anytime.
+#### let vs. const vs. var
+* let you can change the value
+* const you cannot change
+* var can change and is the old way
+#### datatypes
+* number = decimals and integer
+* null = empty but can give null a value
+* undefined=if i am not putting any value in front of a varible
+* BigInt when number is too big and not get adjusted in number datatype
+* string= store words, lines,""
+* boolean = true or false
