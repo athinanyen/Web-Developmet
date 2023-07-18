@@ -53,3 +53,34 @@ console.log("pumpkin");
 //BigInt when number is too big and not get adjusted in number datatype
 //you cam just add a n at the end of a number to make it a bigint
 //string= store words, lines,""
+
+// assignment operators '='
+//let age;
+//age=20+4;
+//console.log(age);
+//age+=4;
+//age = age + 4;
+//console.log(age);
+
+//++ is a unary operator
+//binary operators=+,*,/,-, are binary operaters because they need two operators because they need two operands to exeute
+//unary operator = is implemented on a single operand
+//operand = numbers, strings, varibles which are surronding the operator
+
+//example : age=a+3;
+//Here, a and 3 are operands and + is an operator
+//age++;
+//age+=1;
+//age=age+1;
+
+// age++2; = this is nothing, it will give error
+//age+=2;
+//age=age+2;
+//age=/=2;
+//console.log(age);
+//Assignment operators :
+//=,+=,*=,-=,/=
+
+//if dividend 
+
+age=45 % 3;

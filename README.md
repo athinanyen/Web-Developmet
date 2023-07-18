@@ -93,10 +93,20 @@
 * Uppercase/lowercase = Possible at anytime
 * Numbers can't go first, only last.
 * _ and $ are possible anytime.
+* javascript varibles are case sensitive (p and P would be different)
+* all the assignment operators expressions executes from right to left
+* ++ is a unary operator
+* binary operators=+,*,/,-, are binary operaters because they need two operators because they need two operands to exeute
+* unary operator = is implemented on a single operand
+* operand = numbers, strings, varibles which are surronding the operator
+* age++2; = this is nothing, it will give error
+* if divinend <divisor then %(modulo) operator will give dividend as the answer
+
 #### let vs. const vs. var
 * let you can change the value
 * const you cannot change
 * var can change and is the old way
+
 #### datatypes
 * number = decimals and integer
 * null = empty but can give null a value
