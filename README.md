@@ -101,6 +101,11 @@
 * operand = numbers, strings, varibles which are surronding the operator
 * age++2; = this is nothing, it will give error
 * if divinend <divisor then %(modulo) operator will give dividend as the answer
+* using var you can redeclare a varible in javascript and it will update the value of varible
+* using let you cannot redeclare a varible in javescript 
+* in var varible, you can give the value to the varible after or before the declaration
+* in let varible, you should give the value to the varible after the declaratiion.
+
 
 #### let vs. const vs. var
 * let you can change the value

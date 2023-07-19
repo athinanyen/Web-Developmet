@@ -83,4 +83,36 @@ console.log("pumpkin");
 
 //if dividend 
 
-age=45 % 3;
+//age=45 % 3;
+
+//arithematic operators
+//  console.log(3**3);
+//  console.log(2+3);
+//  console.log(2-3);
+//  console.log(2*3);
+// console.log(2/3);
+// console.log(2%3);
+// console.log(a++);
+//console.log(a--);
+
+//you can declare multiple varibles in single line
+//let a=8, b=6,c=9;
+//console.log(a,b,c);
+
+//using var you can redeclare a varible in javascript and it will update the value of varible
+//using let you cannot redeclare a varible in javescript
+
+//let x=6;
+//let x=9;
+//console.log(x);
+
+//in var varible, you can give the value to the varible after or before the declaration
+//in let varible, you should give the value to the varible after the declaratiion.
+
+//var x=4;
+//var x=5;
+//console.log(x);
+
+// let x;
+// x=4000;
+// console.log(x);
