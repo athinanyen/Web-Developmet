@@ -95,8 +95,8 @@
 * _ and $ are possible anytime.
 * javascript varibles are case sensitive (p and P would be different)
 * all the assignment operators expressions executes from right to left
-* ++ is a unary operator
-* binary operators=+,*,/,-, are binary operaters because they need two operators because they need two operands to exeute
+* ++ and -- are unary operator
+* binary operators=+,*,/,-, are binary operators because they need two operands to exeute
 * unary operator = is implemented on a single operand
 * operand = numbers, strings, varibles which are surronding the operator
 * age++2; = this is nothing, it will give error
@@ -105,6 +105,8 @@
 * using let you cannot redeclare a varible in javescript 
 * in var varible, you can give the value to the varible after or before the declaration
 * in let varible, you should give the value to the varible after the declaratiion.
+* An operator is capable of manipulating a certain value or operand.
+* expotentiation = **
 
 
 #### let vs. const vs. var

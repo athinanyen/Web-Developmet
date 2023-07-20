@@ -116,3 +116,40 @@ console.log("pumpkin");
 // let x;
 // x=4000;
 // console.log(x);
+
+//coditional statements in javascript
+// age=12;
+// if(age>18{
+//     console.log("you can vote");
+// }
+// else if(age<18){
+//     console.log("you can not vote")
+// }
+// else{
+//     console.log("go and apply for voter id");
+// }
+
+// if(2 == 3){
+//     console.log("equal");
+// }
+// if(2 == 4){
+//     console.log("not equal");
+// }
+// if(2 == 5){
+//     console.log("dont know");
+// }
+// if(false == true){
+//     console.log("not possible");
+// }
+// if(true){
+//     console.log("true");
+// }
+// else if(5 != 3){
+//     console.log("not equal 5 and 3");
+// }
+// else if(4 != 4){
+//     console.log("not equal 4 and 4");
+// }
+// else{
+//     console.log("Default value!!");
+// }
