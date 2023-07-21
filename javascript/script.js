@@ -153,3 +153,22 @@ console.log("pumpkin");
 // else{
 //     console.log("Default value!!");
 // }
+
+x=2
+y=5
+z=0
+if(x==2 && y==){
+    console.log(x);
+}
+if(x!=5){
+    console.log(x);
+}
+if(x!=5&&y>=5){
+    console.log("its gonna happen");
+}
+if(z!=0||x==2){
+    console.log("you say");
+}
+if(!(y<10)){
+    console.log(y);
+}
