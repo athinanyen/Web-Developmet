@@ -1,8 +1,8 @@
-document.querySelector(".heading").textContent = "Whats good!";
+// document.querySelector(".heading").textContent = "Whats good!";
 
-document.querySelector("#heading1").textContent = "Angelina";
+// document.querySelector("#heading1").textContent = "Angelina";
 
-console.log("pumpkin");
+// console.log("pumpkin");
 //literals : you cannot change its value...
 //43
 //23
@@ -184,3 +184,19 @@ console.log("pumpkin");
 // else{
 //     console.log("Default value");
 // }
+
+//dom manipulations
+//how to change css style using javescript :
+
+document.querySelector(".body").style.backgroundColor="DeepPink";
+
+document.querySelector(".heading").style.color="pink";
+document.querySelector(".heading").style.textAlign="center";
+
+const images=document.querySelectorAll(".images")
+for (let i = 0; i < images.length; i++) {
+    images[i].style.width="400px";
+images[i].style.height="400px";
+  }
+
+document.querySelector("#heading1").style.color="pink";
