@@ -3,8 +3,10 @@
     padding: 0;
 }
 body {
-    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/5eab1b22-c5ea-48b0-8ef4-862b3fa6df2c/41eaebdf-5de5-4e41-9e1f-cbf140f2dcbb/US-en-20230724-popsignuptwoweeks-perspective_alpha_website_large.jpg");
-   
+    background-image:linear-gradient(to top, 
+    #00000000, #000000c9), linear-gradient(to bottom, 
+    #00000000, #000000c9), url("https://assets.nflxext.com/ffe/siteui/vlv3/5eab1b22-c5ea-48b0-8ef4-862b3fa6df2c/41eaebdf-5de5-4e41-9e1f-cbf140f2dcbb/US-en-20230724-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    
 }
 
 .netflixpic {
@@ -21,7 +23,7 @@ body {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    margin-left: 800px;
+    margin-left: 20px;
 
 }
 
@@ -54,4 +56,27 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 700px;
+    
+}
+
+.language{
+    margin-left: 765px;
+}
+
+.getstarted{
+    color: #fff;
+    background-color: red;
+    height: 65px;
+    width: 200px;
+}
+.email{
+    height: 50px;
+    width: 450px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 10px;
+    background-color: rgba(60, 59, 59, 0);
+    color: #fff;
 }
