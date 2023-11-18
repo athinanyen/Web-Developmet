@@ -3,14 +3,15 @@ from flask_wtf import FlaskForm
 from flask_sqlalchemy import SQLAlchemy
 from wtforms import StringField, PasswordField
 from wtforms.validators import DataRequired, Length, EqualTo
-from flask_login import UserMixin
-from flask_login import UserMixin, login_user, logout_user, login_required
+from flask_login import UserMixin, login_user, logout_user, login_required,LoginManager
 import os
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///user.manager.db'
 db= SQLAlchemy(app)
+login_manager=LoginManager()
+login_manager.
 
 @app.route('/')
 def index():
@@ -41,7 +42,7 @@ def register():
         db.session.add(user)
         db.session.commit()
         flash("Registration sucessful")
-        return redirect('login')
+        return redirect(url_for("login"))
     return render_template('register.html', form=form)
 
 @app.route('/login', methods=['POST', "GET"])
